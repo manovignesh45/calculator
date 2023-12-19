@@ -1,0 +1,38 @@
+body {
+  font-family: Arial;
+  background-color: black;
+}
+
+.answer {
+  color: white;
+  font-size: 40px;
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+
+.calculator-button {
+  height: 60px;
+  width: 60px;
+  font-size: 26px; 
+  border: none;
+  border-radius: 60px;
+  margin-right: 5px;
+
+}
+
+.grey-button {
+  background-color: rgb(49, 49, 49);
+  color: white;
+}
+
+.orange-button {
+  background-color: rgb(255, 160, 10)
+}
+
+.clear-button {
+  font-size: 17px;
+}
+
+.final-project-link{
+  /* margin-top: 50px; */
+}
